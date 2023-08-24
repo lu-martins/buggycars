@@ -61,7 +61,7 @@ After running a spec, the evidence can be found on /cypress/screenshots
 
 ## API
 
-User data is getting from [Random User Generator](https://randomuser.me/documentation#howto))
+User data is getting from [Random User Generator](https://randomuser.me/documentation#howto)
 
 ## Contributing
 
