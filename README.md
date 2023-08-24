@@ -11,7 +11,7 @@ Before you begin, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (>=12.0.0)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Cypress] (>=12.17)
+- [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress) (>=12.17)
 
 ## Getting Started
 
