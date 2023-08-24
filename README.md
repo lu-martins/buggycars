@@ -24,9 +24,10 @@ Before you begin, ensure you have the following installed:
 ## Install Dependencies:
 
 Install project dependencies using Node Package Manager (npm):
-npm install cypress --save-dev
 
--For more info about how to install Cypress, check https://docs.cypress.io/guides/getting-started/installing-cypress
+```npm install cypress --save-dev```
+
+- For more info about how to install Cypress, check https://docs.cypress.io/guides/getting-started/installing-cypress
 
 ## Running Tests
 
@@ -36,7 +37,7 @@ npm install cypress --save-dev
 
 You can run Cypress tests using the following npm command:
 
-npx cypress open
+```npx cypress open```
 
 3. Select the E2E Testing
 
@@ -56,7 +57,7 @@ All bugs found are available on /buggycars/bug_reports
 
 ## Evidences
 
-After running a spec, then the evidence can be found on /cypress/screenshots
+After running a spec, the evidence can be found on /cypress/screenshots
 
 ## Configuration
 
