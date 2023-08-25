@@ -59,14 +59,9 @@ All bugs found are available on /buggycars/bug_reports
 
 After running a spec, the evidence can be found on /cypress/screenshots
 
-## Configuration
+## API
 
-Cypress configuration can be found in cypress.json.
-In this file, you can configure various settings such as baseUrl, viewport size, etc...
-
-## Continuous Integration
-
-You can integrate your Cypress tests into your CI/CD pipeline by using the Cypress CLI commands in your CI configuration file (e.g., .github/workflows/main.yml for GitHub Actions).
+User data is getting from [Random User Generator](https://randomuser.me/documentation#howto)
 
 ## Contributing
 
