@@ -34,7 +34,7 @@ describe('User Registration', () => {
         })
     })
 
-    it.only('Enter with an Invalid login', () => {
+    it('Enter with an Invalid login', () => {
 
         cy.request('https://randomuser.me/api/?nat=nz').then((response) => { // Extract the random name from the response 
 
